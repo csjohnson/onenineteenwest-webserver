@@ -1,0 +1,21 @@
+body{
+	text-align: center;
+	background-color: white;
+	margin: 0;
+}
+
+h1{
+	font-family: 'Buda', cursive;
+	color: black;
+	margin: 0 auto;
+	font-size: 45px;
+	margin-top: 15%;
+}
+
+h2{
+	font-family: 'Dancing Script', cursive;
+	color: black;
+	margin: 0 auto;
+	font-weight: lighter;
+	font-size: 18px;
+}
